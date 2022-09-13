@@ -1,5 +1,5 @@
 
-# Jogo da Forca
+# Portfólio
 
 Criando um site com *HTML, CSS, JavaScript e Figma!*
 
