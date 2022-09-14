@@ -12,7 +12,7 @@
     }
     
     .menu__list__item__contato {
-        display: block;
+        display: none;
     
         font-weight: 400;
     }
