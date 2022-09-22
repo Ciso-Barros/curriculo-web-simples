@@ -74,6 +74,7 @@ section header img {
     margin-right: 16px;
 }
 
+
 .menu__list {
     display: flex;
     justify-content: space-between;
@@ -117,8 +118,26 @@ section.title{
     height: 368px;
 
     border-radius: 50%;
-
+    border: 5px solid var(--cor-de-texto-geral);
     flex-grow: 1;
+    animation: fromLeft .9s backwards;
+}
+
+@keyframes fromLeft {
+    from {
+        opacity: 0;
+        transform: translateX(30px)
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0)
+    }
+}
+
+.title__profile:hover {
+    transform: scale(1.1)
+
 }
 
 .title__container {
