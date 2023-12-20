@@ -1,5 +1,5 @@
 
-Currículo Web - Projeto Pessoal
+## Currículo Web - Projeto Pessoal
 
 ## Descrição
 Este é um projeto de currículo web desenvolvido utilizando HTML, CSS, JavaScript e Figma. O currículo é uma representação online das habilidades, experiências e realizações de um profissional, apresentando-as de forma atraente e interativa.
@@ -13,8 +13,9 @@ Este é um projeto de currículo web desenvolvido utilizando HTML, CSS, JavaScri
 
 - **Integração com Figma:** O layout do currículo foi inicialmente prototipado e projetado no Figma. A integração com o Figma permite uma colaboração eficiente no design e uma implementação fiel à visão original.
 
+Exemplo:  https://ciso-barros.github.io/curriculo-web-simples/
 
 ![Badge de conclusão de projeto 3](./assets/Site.png)
 
 
-# PenrsonalProfile
+
